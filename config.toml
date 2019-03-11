@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hi Bro!"
+theme = "hallo"
+[Author]
+    name = "Nafi"
+[params]
+    greeting = "Hello!"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/NafiAsib"
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://facebook.com/nafi.asib"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "Mail Me!"
+        url = "mailto:nafi.asib@gmail.com"
