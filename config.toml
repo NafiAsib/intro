@@ -1,20 +1,20 @@
 baseURL = "https://nafiasib.github.io/intro/"
 languageCode = "en-us"
 publishDir = "docs"
-title = "Hi Bro!"
+title = "!"
 theme = "hallo"
 [Author]
-    name = "Nafi"
+    name = "Nafi Asib"
 [params]
-    greeting = "Hello!"
-    [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/NafiAsib"
+    greeting = "Hi! I'm K. M. Nafi Asib"
     [[params.links]]
         icon = "facebook"
         title = "Facebook"
         url = "https://facebook.com/nafi.asib"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/NafiAsib"
     [[params.links]]
         iconset = "fas"
         icon = "envelope"
