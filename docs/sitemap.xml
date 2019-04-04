@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nafiasib.github.io/intro/categories/</loc>
+    <loc>https://nafiasib.github.io/intro/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nafiasib.github.io/intro/</loc>
+    <loc>https://nafiasib.github.io/intro/categories/</loc>
     <priority>0</priority>
   </url>
   
