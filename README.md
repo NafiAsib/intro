@@ -1,2 +1,2 @@
 # Intro
-Simple introductory static website for learning purpose only with Hugo.
+Simple single page static website made with [HUGO](https://gohugo.io "HUGO")
